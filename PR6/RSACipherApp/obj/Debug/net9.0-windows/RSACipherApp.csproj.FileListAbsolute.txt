@@ -1,0 +1,15 @@
+C:\Users\Nikita\Desktop\SoftwareSecurity\PR6\RSACipherApp\bin\Debug\net9.0-windows\RSACipherApp.exe
+C:\Users\Nikita\Desktop\SoftwareSecurity\PR6\RSACipherApp\bin\Debug\net9.0-windows\RSACipherApp.deps.json
+C:\Users\Nikita\Desktop\SoftwareSecurity\PR6\RSACipherApp\bin\Debug\net9.0-windows\RSACipherApp.runtimeconfig.json
+C:\Users\Nikita\Desktop\SoftwareSecurity\PR6\RSACipherApp\bin\Debug\net9.0-windows\RSACipherApp.dll
+C:\Users\Nikita\Desktop\SoftwareSecurity\PR6\RSACipherApp\bin\Debug\net9.0-windows\RSACipherApp.pdb
+C:\Users\Nikita\Desktop\SoftwareSecurity\PR6\RSACipherApp\obj\Debug\net9.0-windows\RSACipherApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikita\Desktop\SoftwareSecurity\PR6\RSACipherApp\obj\Debug\net9.0-windows\RSACipherApp.AssemblyInfoInputs.cache
+C:\Users\Nikita\Desktop\SoftwareSecurity\PR6\RSACipherApp\obj\Debug\net9.0-windows\RSACipherApp.AssemblyInfo.cs
+C:\Users\Nikita\Desktop\SoftwareSecurity\PR6\RSACipherApp\obj\Debug\net9.0-windows\RSACipherApp.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Desktop\SoftwareSecurity\PR6\RSACipherApp\obj\Debug\net9.0-windows\RSACipherApp.sourcelink.json
+C:\Users\Nikita\Desktop\SoftwareSecurity\PR6\RSACipherApp\obj\Debug\net9.0-windows\RSACipherApp.dll
+C:\Users\Nikita\Desktop\SoftwareSecurity\PR6\RSACipherApp\obj\Debug\net9.0-windows\refint\RSACipherApp.dll
+C:\Users\Nikita\Desktop\SoftwareSecurity\PR6\RSACipherApp\obj\Debug\net9.0-windows\RSACipherApp.pdb
+C:\Users\Nikita\Desktop\SoftwareSecurity\PR6\RSACipherApp\obj\Debug\net9.0-windows\RSACipherApp.genruntimeconfig.cache
+C:\Users\Nikita\Desktop\SoftwareSecurity\PR6\RSACipherApp\obj\Debug\net9.0-windows\ref\RSACipherApp.dll
