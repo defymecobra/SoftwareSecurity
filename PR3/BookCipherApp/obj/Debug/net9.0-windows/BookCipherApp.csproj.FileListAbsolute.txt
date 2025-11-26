@@ -1,0 +1,15 @@
+C:\Users\Nikita\Desktop\SoftwareSecurity\PR3\BookCipherApp\bin\Debug\net9.0-windows\BookCipherApp.exe
+C:\Users\Nikita\Desktop\SoftwareSecurity\PR3\BookCipherApp\bin\Debug\net9.0-windows\BookCipherApp.deps.json
+C:\Users\Nikita\Desktop\SoftwareSecurity\PR3\BookCipherApp\bin\Debug\net9.0-windows\BookCipherApp.runtimeconfig.json
+C:\Users\Nikita\Desktop\SoftwareSecurity\PR3\BookCipherApp\bin\Debug\net9.0-windows\BookCipherApp.dll
+C:\Users\Nikita\Desktop\SoftwareSecurity\PR3\BookCipherApp\bin\Debug\net9.0-windows\BookCipherApp.pdb
+C:\Users\Nikita\Desktop\SoftwareSecurity\PR3\BookCipherApp\obj\Debug\net9.0-windows\BookCipherApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikita\Desktop\SoftwareSecurity\PR3\BookCipherApp\obj\Debug\net9.0-windows\BookCipherApp.AssemblyInfoInputs.cache
+C:\Users\Nikita\Desktop\SoftwareSecurity\PR3\BookCipherApp\obj\Debug\net9.0-windows\BookCipherApp.AssemblyInfo.cs
+C:\Users\Nikita\Desktop\SoftwareSecurity\PR3\BookCipherApp\obj\Debug\net9.0-windows\BookCipherApp.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Desktop\SoftwareSecurity\PR3\BookCipherApp\obj\Debug\net9.0-windows\BookCipherApp.sourcelink.json
+C:\Users\Nikita\Desktop\SoftwareSecurity\PR3\BookCipherApp\obj\Debug\net9.0-windows\BookCipherApp.dll
+C:\Users\Nikita\Desktop\SoftwareSecurity\PR3\BookCipherApp\obj\Debug\net9.0-windows\refint\BookCipherApp.dll
+C:\Users\Nikita\Desktop\SoftwareSecurity\PR3\BookCipherApp\obj\Debug\net9.0-windows\BookCipherApp.pdb
+C:\Users\Nikita\Desktop\SoftwareSecurity\PR3\BookCipherApp\obj\Debug\net9.0-windows\BookCipherApp.genruntimeconfig.cache
+C:\Users\Nikita\Desktop\SoftwareSecurity\PR3\BookCipherApp\obj\Debug\net9.0-windows\ref\BookCipherApp.dll
