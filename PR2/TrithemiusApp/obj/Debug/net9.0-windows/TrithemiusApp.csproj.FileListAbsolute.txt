@@ -1,0 +1,15 @@
+C:\Users\Nikita\Desktop\SoftwareSecurity\PR2\TrithemiusApp\bin\Debug\net9.0-windows\TrithemiusApp.exe
+C:\Users\Nikita\Desktop\SoftwareSecurity\PR2\TrithemiusApp\bin\Debug\net9.0-windows\TrithemiusApp.deps.json
+C:\Users\Nikita\Desktop\SoftwareSecurity\PR2\TrithemiusApp\bin\Debug\net9.0-windows\TrithemiusApp.runtimeconfig.json
+C:\Users\Nikita\Desktop\SoftwareSecurity\PR2\TrithemiusApp\bin\Debug\net9.0-windows\TrithemiusApp.dll
+C:\Users\Nikita\Desktop\SoftwareSecurity\PR2\TrithemiusApp\bin\Debug\net9.0-windows\TrithemiusApp.pdb
+C:\Users\Nikita\Desktop\SoftwareSecurity\PR2\TrithemiusApp\obj\Debug\net9.0-windows\TrithemiusApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikita\Desktop\SoftwareSecurity\PR2\TrithemiusApp\obj\Debug\net9.0-windows\TrithemiusApp.AssemblyInfoInputs.cache
+C:\Users\Nikita\Desktop\SoftwareSecurity\PR2\TrithemiusApp\obj\Debug\net9.0-windows\TrithemiusApp.AssemblyInfo.cs
+C:\Users\Nikita\Desktop\SoftwareSecurity\PR2\TrithemiusApp\obj\Debug\net9.0-windows\TrithemiusApp.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Desktop\SoftwareSecurity\PR2\TrithemiusApp\obj\Debug\net9.0-windows\TrithemiusApp.sourcelink.json
+C:\Users\Nikita\Desktop\SoftwareSecurity\PR2\TrithemiusApp\obj\Debug\net9.0-windows\TrithemiusApp.dll
+C:\Users\Nikita\Desktop\SoftwareSecurity\PR2\TrithemiusApp\obj\Debug\net9.0-windows\refint\TrithemiusApp.dll
+C:\Users\Nikita\Desktop\SoftwareSecurity\PR2\TrithemiusApp\obj\Debug\net9.0-windows\TrithemiusApp.pdb
+C:\Users\Nikita\Desktop\SoftwareSecurity\PR2\TrithemiusApp\obj\Debug\net9.0-windows\TrithemiusApp.genruntimeconfig.cache
+C:\Users\Nikita\Desktop\SoftwareSecurity\PR2\TrithemiusApp\obj\Debug\net9.0-windows\ref\TrithemiusApp.dll
