@@ -1,0 +1,15 @@
+C:\Users\Nikita\Desktop\SoftwareSecurity\PR4\DESCipherApp\bin\Debug\net9.0-windows\DESCipherApp.exe
+C:\Users\Nikita\Desktop\SoftwareSecurity\PR4\DESCipherApp\bin\Debug\net9.0-windows\DESCipherApp.deps.json
+C:\Users\Nikita\Desktop\SoftwareSecurity\PR4\DESCipherApp\bin\Debug\net9.0-windows\DESCipherApp.runtimeconfig.json
+C:\Users\Nikita\Desktop\SoftwareSecurity\PR4\DESCipherApp\bin\Debug\net9.0-windows\DESCipherApp.dll
+C:\Users\Nikita\Desktop\SoftwareSecurity\PR4\DESCipherApp\bin\Debug\net9.0-windows\DESCipherApp.pdb
+C:\Users\Nikita\Desktop\SoftwareSecurity\PR4\DESCipherApp\obj\Debug\net9.0-windows\DESCipherApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikita\Desktop\SoftwareSecurity\PR4\DESCipherApp\obj\Debug\net9.0-windows\DESCipherApp.AssemblyInfoInputs.cache
+C:\Users\Nikita\Desktop\SoftwareSecurity\PR4\DESCipherApp\obj\Debug\net9.0-windows\DESCipherApp.AssemblyInfo.cs
+C:\Users\Nikita\Desktop\SoftwareSecurity\PR4\DESCipherApp\obj\Debug\net9.0-windows\DESCipherApp.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Desktop\SoftwareSecurity\PR4\DESCipherApp\obj\Debug\net9.0-windows\DESCipherApp.sourcelink.json
+C:\Users\Nikita\Desktop\SoftwareSecurity\PR4\DESCipherApp\obj\Debug\net9.0-windows\DESCipherApp.dll
+C:\Users\Nikita\Desktop\SoftwareSecurity\PR4\DESCipherApp\obj\Debug\net9.0-windows\refint\DESCipherApp.dll
+C:\Users\Nikita\Desktop\SoftwareSecurity\PR4\DESCipherApp\obj\Debug\net9.0-windows\DESCipherApp.pdb
+C:\Users\Nikita\Desktop\SoftwareSecurity\PR4\DESCipherApp\obj\Debug\net9.0-windows\DESCipherApp.genruntimeconfig.cache
+C:\Users\Nikita\Desktop\SoftwareSecurity\PR4\DESCipherApp\obj\Debug\net9.0-windows\ref\DESCipherApp.dll
