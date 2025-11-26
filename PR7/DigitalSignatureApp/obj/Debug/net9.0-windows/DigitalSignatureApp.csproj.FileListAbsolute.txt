@@ -1,0 +1,15 @@
+C:\Users\Nikita\Desktop\SoftwareSecurity\PR7\DigitalSignatureApp\bin\Debug\net9.0-windows\DigitalSignatureApp.exe
+C:\Users\Nikita\Desktop\SoftwareSecurity\PR7\DigitalSignatureApp\bin\Debug\net9.0-windows\DigitalSignatureApp.deps.json
+C:\Users\Nikita\Desktop\SoftwareSecurity\PR7\DigitalSignatureApp\bin\Debug\net9.0-windows\DigitalSignatureApp.runtimeconfig.json
+C:\Users\Nikita\Desktop\SoftwareSecurity\PR7\DigitalSignatureApp\bin\Debug\net9.0-windows\DigitalSignatureApp.dll
+C:\Users\Nikita\Desktop\SoftwareSecurity\PR7\DigitalSignatureApp\bin\Debug\net9.0-windows\DigitalSignatureApp.pdb
+C:\Users\Nikita\Desktop\SoftwareSecurity\PR7\DigitalSignatureApp\obj\Debug\net9.0-windows\DigitalSignatureApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikita\Desktop\SoftwareSecurity\PR7\DigitalSignatureApp\obj\Debug\net9.0-windows\DigitalSignatureApp.AssemblyInfoInputs.cache
+C:\Users\Nikita\Desktop\SoftwareSecurity\PR7\DigitalSignatureApp\obj\Debug\net9.0-windows\DigitalSignatureApp.AssemblyInfo.cs
+C:\Users\Nikita\Desktop\SoftwareSecurity\PR7\DigitalSignatureApp\obj\Debug\net9.0-windows\DigitalSignatureApp.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Desktop\SoftwareSecurity\PR7\DigitalSignatureApp\obj\Debug\net9.0-windows\DigitalSignatureApp.sourcelink.json
+C:\Users\Nikita\Desktop\SoftwareSecurity\PR7\DigitalSignatureApp\obj\Debug\net9.0-windows\DigitalSignatureApp.dll
+C:\Users\Nikita\Desktop\SoftwareSecurity\PR7\DigitalSignatureApp\obj\Debug\net9.0-windows\refint\DigitalSignatureApp.dll
+C:\Users\Nikita\Desktop\SoftwareSecurity\PR7\DigitalSignatureApp\obj\Debug\net9.0-windows\DigitalSignatureApp.pdb
+C:\Users\Nikita\Desktop\SoftwareSecurity\PR7\DigitalSignatureApp\obj\Debug\net9.0-windows\DigitalSignatureApp.genruntimeconfig.cache
+C:\Users\Nikita\Desktop\SoftwareSecurity\PR7\DigitalSignatureApp\obj\Debug\net9.0-windows\ref\DigitalSignatureApp.dll
