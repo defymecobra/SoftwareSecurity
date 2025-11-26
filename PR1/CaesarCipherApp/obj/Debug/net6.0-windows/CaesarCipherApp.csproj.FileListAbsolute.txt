@@ -1,0 +1,14 @@
+C:\Users\Nikita\Desktop\SoftwareSecurity\CaesarCipherApp\bin\Debug\net6.0-windows\CaesarCipherApp.exe
+C:\Users\Nikita\Desktop\SoftwareSecurity\CaesarCipherApp\bin\Debug\net6.0-windows\CaesarCipherApp.deps.json
+C:\Users\Nikita\Desktop\SoftwareSecurity\CaesarCipherApp\bin\Debug\net6.0-windows\CaesarCipherApp.runtimeconfig.json
+C:\Users\Nikita\Desktop\SoftwareSecurity\CaesarCipherApp\bin\Debug\net6.0-windows\CaesarCipherApp.dll
+C:\Users\Nikita\Desktop\SoftwareSecurity\CaesarCipherApp\bin\Debug\net6.0-windows\CaesarCipherApp.pdb
+C:\Users\Nikita\Desktop\SoftwareSecurity\CaesarCipherApp\obj\Debug\net6.0-windows\CaesarCipherApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikita\Desktop\SoftwareSecurity\CaesarCipherApp\obj\Debug\net6.0-windows\CaesarCipherApp.AssemblyInfoInputs.cache
+C:\Users\Nikita\Desktop\SoftwareSecurity\CaesarCipherApp\obj\Debug\net6.0-windows\CaesarCipherApp.AssemblyInfo.cs
+C:\Users\Nikita\Desktop\SoftwareSecurity\CaesarCipherApp\obj\Debug\net6.0-windows\CaesarCipherApp.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Desktop\SoftwareSecurity\CaesarCipherApp\obj\Debug\net6.0-windows\CaesarCipherApp.dll
+C:\Users\Nikita\Desktop\SoftwareSecurity\CaesarCipherApp\obj\Debug\net6.0-windows\refint\CaesarCipherApp.dll
+C:\Users\Nikita\Desktop\SoftwareSecurity\CaesarCipherApp\obj\Debug\net6.0-windows\CaesarCipherApp.pdb
+C:\Users\Nikita\Desktop\SoftwareSecurity\CaesarCipherApp\obj\Debug\net6.0-windows\CaesarCipherApp.genruntimeconfig.cache
+C:\Users\Nikita\Desktop\SoftwareSecurity\CaesarCipherApp\obj\Debug\net6.0-windows\ref\CaesarCipherApp.dll
