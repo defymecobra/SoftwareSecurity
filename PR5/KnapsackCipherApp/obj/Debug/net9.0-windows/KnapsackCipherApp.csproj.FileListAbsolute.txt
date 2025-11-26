@@ -1,0 +1,15 @@
+C:\Users\Nikita\Desktop\SoftwareSecurity\PR5\KnapsackCipherApp\bin\Debug\net9.0-windows\KnapsackCipherApp.exe
+C:\Users\Nikita\Desktop\SoftwareSecurity\PR5\KnapsackCipherApp\bin\Debug\net9.0-windows\KnapsackCipherApp.deps.json
+C:\Users\Nikita\Desktop\SoftwareSecurity\PR5\KnapsackCipherApp\bin\Debug\net9.0-windows\KnapsackCipherApp.runtimeconfig.json
+C:\Users\Nikita\Desktop\SoftwareSecurity\PR5\KnapsackCipherApp\bin\Debug\net9.0-windows\KnapsackCipherApp.dll
+C:\Users\Nikita\Desktop\SoftwareSecurity\PR5\KnapsackCipherApp\bin\Debug\net9.0-windows\KnapsackCipherApp.pdb
+C:\Users\Nikita\Desktop\SoftwareSecurity\PR5\KnapsackCipherApp\obj\Debug\net9.0-windows\KnapsackCipherApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikita\Desktop\SoftwareSecurity\PR5\KnapsackCipherApp\obj\Debug\net9.0-windows\KnapsackCipherApp.AssemblyInfoInputs.cache
+C:\Users\Nikita\Desktop\SoftwareSecurity\PR5\KnapsackCipherApp\obj\Debug\net9.0-windows\KnapsackCipherApp.AssemblyInfo.cs
+C:\Users\Nikita\Desktop\SoftwareSecurity\PR5\KnapsackCipherApp\obj\Debug\net9.0-windows\KnapsackCipherApp.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Desktop\SoftwareSecurity\PR5\KnapsackCipherApp\obj\Debug\net9.0-windows\KnapsackCipherApp.sourcelink.json
+C:\Users\Nikita\Desktop\SoftwareSecurity\PR5\KnapsackCipherApp\obj\Debug\net9.0-windows\KnapsackCipherApp.dll
+C:\Users\Nikita\Desktop\SoftwareSecurity\PR5\KnapsackCipherApp\obj\Debug\net9.0-windows\refint\KnapsackCipherApp.dll
+C:\Users\Nikita\Desktop\SoftwareSecurity\PR5\KnapsackCipherApp\obj\Debug\net9.0-windows\KnapsackCipherApp.pdb
+C:\Users\Nikita\Desktop\SoftwareSecurity\PR5\KnapsackCipherApp\obj\Debug\net9.0-windows\KnapsackCipherApp.genruntimeconfig.cache
+C:\Users\Nikita\Desktop\SoftwareSecurity\PR5\KnapsackCipherApp\obj\Debug\net9.0-windows\ref\KnapsackCipherApp.dll
